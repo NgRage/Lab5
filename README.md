@@ -18,6 +18,7 @@
 4. Вывод на экран
 
 ### Тестирование
+<img width="561" height="116" alt="Lab5_Task1_SC1" src="https://github.com/user-attachments/assets/090eb2ad-0fc8-4696-971e-78d6a5d6eab2" />
 
 
 
@@ -37,6 +38,7 @@
 5. Вывести MaxLen, когда обход списка будет завершен
 
 ### Тестирование
+<img width="719" height="111" alt="Lab5_Task2_SC1" src="https://github.com/user-attachments/assets/b916cb78-f520-40f9-8a17-564a322b14ba" />
 
 
 
@@ -58,6 +60,7 @@
 7. Результирующей список отобразить пользователю
 
 ### Тестирование
+<img width="813" height="156" alt="Lab5_Task3_SC1" src="https://github.com/user-attachments/assets/ceee9dde-1e85-45ca-965a-1a051cbc192e" />
 
 
 
@@ -81,3 +84,4 @@
 4. Перебрать все варианты цвета и марки, пока все три XOR'a не вернут TRUE
 5. Вывести результат
 ### Тестирование
+<img width="425" height="133" alt="Lab5_Task4_SC1" src="https://github.com/user-attachments/assets/0dc2dda1-ad2b-48e1-a00a-fbedcdead859" />
